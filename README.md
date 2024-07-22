@@ -1,4 +1,4 @@
-CHATBOT SYSTEM (Using Machine Learning Techniques for natural language processing)
+CHATBOT SYSTEM (Using Advanced Python)
 ## Features / Tasks it can perform:  
 1. Game (eg, Rock Paper Scissor with GUI)  
 2. Search anything from wikipedia, google maps, etc  
